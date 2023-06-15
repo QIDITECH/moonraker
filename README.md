@@ -8,7 +8,7 @@ Thanks to the developers and maintainers of these open source projects.Please co
 - <a href="https://github.com/Arksine/moonraker">**Moonraker**</a>
 
 1. This document provides the modified moonraker version of QIDI.
-2. This document only provides methods for replacing source code for updates.
+2. This document only provides methods for replacing source code for updates.  
 ***Please note that manual updates may affect normal after-sales service.***  
 
 ## Detailed update process
